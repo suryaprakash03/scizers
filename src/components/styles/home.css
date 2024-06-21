@@ -1,0 +1,94 @@
+#logo
+{
+    width: 165px;
+    height: 20px;
+    top:9%;
+    left:20%; 
+    position:absolute;
+    color:#F5F5F5;
+    font-weight:bold;
+    font-style:italic;
+    /* color:rgba(6, 35, 73, 0.64);
+    color:rgba(24, 141, 249, 0)   */
+}
+#en
+{
+    width:200px;
+    height:48px;
+    top: 46px;
+    left: 1097px; 
+    position:absolute;
+    padding: 12px 44px 12px 44px;
+    border-radius:15px;
+    font-weight:bold;
+    border: 2px solid #17ABFF;
+    color:#17ABFF;
+    background-color:rgba(6, 35, 73, 0.64);
+}
+#en:hover
+{
+    box-shadow:0px 0px 5px white;
+}
+#hc
+{
+    width: 500px;
+    height: 220px;
+    position:absolute;
+    top : 200px;
+    left : 160px;
+    font-size: 48px;
+    line-height: 60px; 
+    font-weight:bold;
+    background-color:transparent;
+    font-family:Oswald,sans-serif;
+    text-align: left;
+    color:white;
+}
+#card
+{
+    width: 305px;
+    height: 320px;
+    position:absolute;
+    top: 210px;
+    left: 975px;
+    background:#5790beda;  
+}
+#bluebtn
+{
+    width:250px;
+    height:50px;
+    top: 389px;
+    left: 1005px;
+    padding: 12px 40px 12px 40px;
+    border-radius:10px;
+    background-color:#17ABFF;
+    color:white;
+    font-weight:bold;
+    border:0px;
+}
+#bluebtn:hover
+{
+    box-shadow:0px 0px 5px white;
+}
+#hc span
+{
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 33px;
+    text-align: left;  
+}
+#feature
+{
+   width: 1460px;
+   height: 180px;
+   background: #F4F9FF;
+}
+#feature div
+{
+    width:1020px;
+    height:125px;
+    margin:0px auto;
+    /* gap: 160px; */
+    opacity: 0px;
+}

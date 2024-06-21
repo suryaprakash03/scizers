@@ -1,0 +1,50 @@
+:root
+{
+    --darkblue:#00357B;
+}
+h1
+{
+    width:180px;
+    height:80px;
+    padding:0.86px 0.62px 0.86px 0.62px;
+    text-align:center;
+    margin:0px auto;
+    color:var(--darkblue);
+}
+#head h2
+{
+    height:50px;
+    font-family: "Sans-serif";
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 47px;
+    text-align:center;
+    color:#00357B;
+    margin:2% auto;
+}
+#subhead
+{
+   text-align:center;
+   height:85px;
+   color:#343434;
+   font-family: "Sans-serif";
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+}
+#imgsel
+{
+    width:1100px;
+    height:250px;
+    margin:0px auto;
+    display:flex;
+    justify-content:space-between
+}
+#imgsel div figcaption:hover
+{
+    text-decoration:underline 2px var(--darkblue);
+}
+#btnpht button:hover
+{
+    box-shadow:0px 0px 5px black;
+}
